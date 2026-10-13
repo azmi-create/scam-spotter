@@ -1,0 +1,15 @@
+# Environment variables and virtual environment
+.env
+venv/
+.venv/
+env/
+
+# Python cache and runtime files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit runtime & secrets
+.streamlit/secrets.toml

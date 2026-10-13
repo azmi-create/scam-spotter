@@ -2,6 +2,10 @@
 
 > Spot fraudulent messages and phishing scams before they trick you.
 
+## Live Demo
+
+[https://scam-spotter.streamlit.app/](https://scam-spotter.streamlit.app/)
+
 Scam Spotter is an AI-powered fraud-detection assistant designed to help everyday people quickly verify whether a suspicious text message, email, or screenshot is a scam.
 
 ---
